@@ -1,0 +1,63 @@
+<?xml version="1.0"?><bluetooth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://holden.com.au/schemas/bluetooth" xsi:schemaLocation="http://holden.com.au/schemas/bluetooth bluetooth.xsd" ><headings><mapping heading="Simplified" sortOrder="1" description="Call Handling" /><mapping heading="Simplified" sortOrder="2" description="Enhanced voice control" /><mapping heading="Simplified" sortOrder="3" description="Phonebook Access" /><mapping heading="Simplified" sortOrder="4" description="Audio Streaming" /><mapping heading="Simplified" sortOrder="5" description="SMS Text Messaging" /></headings>
+  <manufacturer name="Apple">
+    
+      <phone model="Iphone4" software-version="6.1.3">
+        
+          <phone-capability code="Call Handling" capable="Partially Compatible"/>
+          <phone-capability code="Enhanced voice control" capable="Compatible"/>
+          <phone-capability code="Phonebook Access" capable="Not Compatible"/>
+          <phone-capability code="Audio Streaming" capable="Compatible"/>
+          <phone-capability code="SMS Text Messaging" capable="Partially Compatible"/>
+        
+      </phone>
+      <phone model="Iphone4s" software-version="6.1.3">
+        
+          <phone-capability code="Call Handling" capable="Not Compatible"/>
+          <phone-capability code="Enhanced voice control" capable="Compatible"/>
+          <phone-capability code="Phonebook Access" capable="Not Compatible"/>
+          <phone-capability code="Audio Streaming" capable="Not Compatible"/>
+          <phone-capability code="SMS Text Messaging" capable="Compatible"/>
+        
+      </phone>
+      <phone model="Iphone5" software-version="6.1.4">
+        
+          <phone-capability code="Call Handling" capable="Compatible"/>
+          <phone-capability code="Enhanced voice control" capable="Compatible"/>
+          <phone-capability code="Phonebook Access" capable="Compatible"/>
+          <phone-capability code="Audio Streaming" capable="Partially Compatible"/>
+          <phone-capability code="SMS Text Messaging" capable="Not Compatible"/>
+        
+      </phone>
+    
+  </manufacturer>
+  <manufacturer name="Nokia">
+    
+      <phone model="2720a-2b" software-version="6.1.4">
+        
+          <phone-capability code="Call Handling" capable="Partially Compatible"/>
+          <phone-capability code="Enhanced voice control" capable="Compatible"/>
+          <phone-capability code="Phonebook Access" capable="Not Compatible"/>
+          <phone-capability code="Audio Streaming" capable="Not Compatible"/>
+          <phone-capability code="SMS Text Messaging" capable="Not Compatible"/>
+        
+      </phone>
+      <phone model="5230.0" software-version="6.1.4">
+        
+          <phone-capability code="Call Handling" capable="Compatible"/>
+          <phone-capability code="Enhanced voice control" capable="Partially Compatible"/>
+          <phone-capability code="Phonebook Access" capable="Compatible"/>
+          <phone-capability code="Audio Streaming" capable="Not Compatible"/>
+          <phone-capability code="SMS Text Messaging" capable="Not Compatible"/>
+        
+      </phone>
+      <phone model="6500_slide" software-version="6.1.4">
+        
+          <phone-capability code="Call Handling" capable="Compatible"/>
+          <phone-capability code="Enhanced voice control" capable="Compatible"/>
+          <phone-capability code="Phonebook Access" capable="Not Compatible"/>
+          <phone-capability code="Audio Streaming" capable="Not Compatible"/>
+          <phone-capability code="SMS Text Messaging" capable="Not Compatible"/>
+        
+      </phone>
+    
+  </manufacturer>
